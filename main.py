@@ -14,7 +14,7 @@ fred.shape("turtle")
 ball = turtle.Turtle()
 ball.shape("circle")
 ball.penup()
-ball.color("green")
+ball.color("organge")
 
 def move_ball():
     ball.setx(random.randint(-180, 180))
